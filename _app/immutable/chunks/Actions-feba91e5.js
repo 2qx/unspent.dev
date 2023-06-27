@@ -1,0 +1,2 @@
+import{a as t}from"./main-e6981e9c.js";t({class:"mdc-dialog__header",tag:"div",contexts:{"SMUI:icon-button:context":"dialog:header"}});t({class:"mdc-dialog__title",tag:"h2"});const o=t({class:"mdc-dialog__content",tag:"div"}),s=t({class:"mdc-dialog__actions",tag:"div",classMap:{"smui-dialog__actions--reversed":"SMUI:dialog:actions:reversed"},contexts:{"SMUI:button:context":"dialog:action"}});export{s as A,o as C};
+//# sourceMappingURL=Actions-feba91e5.js.map
