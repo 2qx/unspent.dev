@@ -1,0 +1,2 @@
+import{a as e}from"./main-6134e84f.js";e({class:"mdc-deprecated-list-item__text",tag:"span"});e({class:"mdc-deprecated-list-item__primary-text",tag:"span"});e({class:"mdc-deprecated-list-item__secondary-text",tag:"span"});e({class:"mdc-deprecated-list-item__meta",tag:"span"});e({class:"mdc-deprecated-list-group",tag:"div"});e({class:"mdc-deprecated-list-group__subheader",tag:"h3"});
+//# sourceMappingURL=Subheader-068f0e4d.js.map
