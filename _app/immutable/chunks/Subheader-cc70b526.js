@@ -1,2 +1,0 @@
-import{a as e}from"./main-e243277d.js";e({class:"mdc-deprecated-list-item__text",tag:"span"});e({class:"mdc-deprecated-list-item__primary-text",tag:"span"});e({class:"mdc-deprecated-list-item__secondary-text",tag:"span"});e({class:"mdc-deprecated-list-item__meta",tag:"span"});e({class:"mdc-deprecated-list-group",tag:"div"});e({class:"mdc-deprecated-list-group__subheader",tag:"h3"});
-//# sourceMappingURL=Subheader-cc70b526.js.map
