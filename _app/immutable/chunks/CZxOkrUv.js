@@ -1,2 +1,0 @@
-import{i as A,c as i,w as H,a as e}from"./B6v_0sos.js";function l(S){const t=A(S);if(typeof t=="string")throw new Error(`Failed import libauth template, error: ${t}`);return i({...H(t),operations:{...e}})}var o;(function(S){S[S.ECDSA=0]="ECDSA",S[S.SCHNORR=1]="SCHNORR"})(o||(o={}));var r;(function(S){S[S.SIGHASH_ALL=1]="SIGHASH_ALL",S[S.SIGHASH_NONE=2]="SIGHASH_NONE",S[S.SIGHASH_SINGLE=3]="SIGHASH_SINGLE",S[S.SIGHASH_UTXOS=32]="SIGHASH_UTXOS",S[S.SIGHASH_ANYONECANPAY=128]="SIGHASH_ANYONECANPAY"})(r||(r={}));export{l as g};
-//# sourceMappingURL=CZxOkrUv.js.map
