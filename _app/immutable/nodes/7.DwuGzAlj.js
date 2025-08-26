@@ -1,2 +1,0 @@
-import"../chunks/CcL-NDKF.js";import{p as a,a as p,j as r,a0 as n}from"../chunks/BtpFcd1C.js";import{C as i}from"../chunks/CJyNmwaN.js";const c=({params:t})=>({topic:t.chan,post:{title:`/pop/${t.chan}`}}),_=Object.freeze(Object.defineProperty({__proto__:null,load:c},Symbol.toStringTag,{value:"Module"}));function d(t,e){a(e,!0);let o=n(()=>e.data.topic);i(t,{get topic(){return r(o)}}),p()}export{d as component,_ as universal};
-//# sourceMappingURL=7.DwuGzAlj.js.map
