@@ -1,0 +1,1 @@
+{"version":3,"file":"14.LO18EQJ3.js","sources":["../../../../../../src/routes/timeout/+page.ts"],"sourcesContent":["export const prerender = true;"],"names":["prerender"],"mappings":"wIAAO,MAAMA,EAAY"}
