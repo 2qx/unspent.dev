@@ -1,1 +1,0 @@
-{"version":3,"file":"7.CNZuxXbV.js","sources":["../../../../../../src/routes/db/+page.ts"],"sourcesContent":["export const prerender = true;"],"names":["prerender"],"mappings":"wIAAO,MAAMA,EAAY"}

@@ -1,0 +1,2 @@
+import{f as r,a as o}from"../chunks/KXz8daf6.js";import"../chunks/CFJOPLMg.js";import{at as a,c as s,r as p}from"../chunks/Cn9IWvZP.js";const i=!0,_=Object.freeze(Object.defineProperty({__proto__:null,prerender:i},Symbol.toStringTag,{value:"Module"}));var c=r("<h3>About Irrevocable Trusts</h3> <p>An unspent trust is a simple monthly annuity.</p>",1);function m(e){var t=c();a(2),o(e,t)}var u=r("<section><!></section>");function d(e){var t=u(),n=s(t);m(n),p(t),o(e,t)}export{d as component,_ as universal};
+//# sourceMappingURL=15.BxcZnhAN.js.map

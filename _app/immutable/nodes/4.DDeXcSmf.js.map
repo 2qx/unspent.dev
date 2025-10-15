@@ -1,1 +1,0 @@
-{"version":3,"file":"4.DDeXcSmf.js","sources":["../../../../../../src/routes/badger/+page.ts"],"sourcesContent":["export const prerender = true;"],"names":["prerender"],"mappings":"mIAAO,MAAMA,EAAY"}

@@ -1,1 +1,0 @@
-{"version":3,"file":"9.B8xGlWZn.js","sources":["../../../../../../src/routes/dutch/+page.ts"],"sourcesContent":["export const prerender = true;"],"names":["prerender"],"mappings":"wIAAO,MAAMA,EAAY"}

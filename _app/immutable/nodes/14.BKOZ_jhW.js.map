@@ -1,0 +1,1 @@
+{"version":3,"file":"14.BKOZ_jhW.js","sources":["../../../../../../src/routes/timeout/+page.ts"],"sourcesContent":["export const prerender = true;"],"names":["prerender"],"mappings":"wIAAO,MAAMA,EAAY"}

@@ -1,2 +1,0 @@
-import{t as N}from"./L5TocV6Q.js";import{h as g}from"./mUTQf1c8.js";function A(i,b,t,h,f,r){var o=i.__className;if(g||o!==t||o===void 0){var a=N(t,h,r);(!g||a!==i.getAttribute("class"))&&(a==null?i.removeAttribute("class"):i.className=a),i.__className=t}else if(r&&f!==r)for(var l in r){var u=!!r[l];(f==null||u!==!!f[l])&&i.classList.toggle(l,u)}return r}export{A as s};
-//# sourceMappingURL=D4Pho8b_.js.map
