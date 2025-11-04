@@ -1,2 +1,0 @@
-import{Z as l,x as t,af as u,$ as o}from"./Cn9IWvZP.js";function c(e){throw new Error("https://svelte.dev/e/lifecycle_outside_component")}function a(e){t===null&&c(),u&&t.l!==null?f(t).m.push(e):l(()=>{const n=o(e);if(typeof n=="function")return n})}function s(e){t===null&&c(),a(()=>()=>o(e))}function f(e){var n=e.l;return n.u??={a:[],b:[],m:[]}}export{s as a,a as o};
-//# sourceMappingURL=WeBIkNgq.js.map
