@@ -1,0 +1,2 @@
+import{p as m}from"./DXaQESiK.js";import"./DJI3uLfv.js";import{f as o,a as r}from"./D4WI2l91.js";import"./DLnyVmsO.js";import{r as i}from"./CR0roo4h.js";import{e as f,i as l}from"./CEwtjCVU.js";import{s as c}from"./CZebDG6o.js";const E=m.name;var v=o('<span class="svelte-6nxnyq">.</span>'),_=o('<span class="svelte-6nxnyq"></span>');function L(t){let n=3;var a=_();f(a,5,()=>Array(n),l,(e,y,p)=>{var s=v();c(s,"",{},{"--i":p,"--time":"1.5s","--delay":"0.2s"}),r(e,s)}),i(a),r(t,a)}export{L,E as U};
+//# sourceMappingURL=DDmZwvwf.js.map
