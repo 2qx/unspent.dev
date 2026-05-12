@@ -1,0 +1,2 @@
+import{K as y,d as u,aj as _,ak as o,h as t,L as g,O as p,a3 as i,j as l,i as d,k as m}from"./Xx7DcZ-w.js";function C(n,r){let a=null,E=t;var s;if(t){a=m;for(var e=g(document.head);e!==null&&(e.nodeType!==p||e.data!==n);)e=i(e);if(e===null)l(!1);else{var f=i(e);e.remove(),d(f)}}t||(s=document.head.appendChild(y()));try{u(()=>r(s),_|o)}finally{E&&(l(!0),d(a))}}export{C as h};
+//# sourceMappingURL=DEvavcVq.js.map
