@@ -1,0 +1,2 @@
+import{f as t,a as r}from"./he3immRh.js";import"./DECx5bil.js";import{r as m}from"./Brfiz_bE.js";import{e as f,i}from"./1mYRLmAn.js";import{s as l}from"./DyLqUHww.js";var v=t('<span class="svelte-gftfsn">.</span>'),c=t('<span class="svelte-gftfsn"></span>');function x(o){let e=3;var s=c();f(s,5,()=>Array(e),i,(n,_,p)=>{var a=v();l(a,"",{},{"--i":p,"--time":"1.5s","--delay":"0.2s"}),r(n,a)}),m(s),r(o,s)}export{x as L};
+//# sourceMappingURL=DBM8KKMk.js.map
